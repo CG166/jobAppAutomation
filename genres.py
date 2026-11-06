@@ -95,7 +95,7 @@ def generate_resume(position: str, company: str):
     #print(output_tex.with_suffix(".pdf"))
 
 
-# ---- Example Usage ----
+# ----Example Usage----
 #if __name__ == "__main__":
     #generate_resume(
         #position="Software Engineer",

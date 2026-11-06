@@ -1,0 +1,16 @@
+# Browser cookies and session data
+cookies.json
+*cookie*
+*.cookie
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated resume files
+generated_resumes/
+
+# LaTeX temporary files
+*.aux
+*.log
+*.out

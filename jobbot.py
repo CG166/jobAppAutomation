@@ -3,7 +3,7 @@ from playwright.sync_api import sync_playwright # type: ignore
 import genres
 
 
-######Fetching cookies from cookies.json(exported with Cookie-editor chrome extension) and converting to Playwright format######
+#####Fetching cookies from cookies.json(exported with Cookie-editor chrome extension) and converting to Playwright format######
 with open("cookies.json", "r") as f:
     raw_cookies = json.load(f)
 
